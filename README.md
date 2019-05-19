@@ -1,3 +1,3 @@
 # hello-world
-Understanding GitHub
+Understanding GitHub.
 It is interesting to get to know GitHub.
